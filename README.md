@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <title>Data Sets for Imbalanced Regression Learning</title>
-  </head>
-
-  <body>
-    <div id="container">
-      <div class="inner">
-
-        <header>
-          <h1>Data Sets for Imbalanced Regression Learning</h1>
-          <h2>15 data sets for imbalanced regression from different domains</h2>
-        </header>
-
-        <section id="downloads" class="clearfix">
-          <a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/zipball/master" id="download-zip" class="button"><span>Download .zip</span></a>
-          <a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-          <a href="https://github.com/paobranco/Imbalanced-Regression-DataSets" id="view-on-github" class="button"><span>View on GitHub</span></a>
-        </section>
-
-        <hr>
-
-        <section id="main_content">
-          
-<h1>
 <a id="IRDataSets" class="anchor" href="#Imbalanced-Regression-DataSets" aria-hidden="true"><span class="octicon octicon-link"></span>
 </a>Imbalanced Regression Data Sets</h1>
 
@@ -41,8 +6,6 @@
 </a>15 data sets for imbalanced regression</h2>
 
 
-<h2>
-<a id="contents" class="anchor" href="#contents" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contents</h2>
 
 <p>
 This repository contains the 15 imbalanced regression data sets used in the paper:
@@ -91,14 +54,3 @@ where,</p>
 <p>nRare represents the number of cases with target variable relevance above 0.8; and</p>
 
 <p>% Rare=nRare/Nx100.</p>
-
-        </section>
-
-        <footer>
-        </footer>
-
-
-      </div>
-    </div>
-  </body>
-</html>

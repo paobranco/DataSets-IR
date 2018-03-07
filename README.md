@@ -1,9 +1,6 @@
-<a id="IRDataSets" class="anchor" href="#Imbalanced-Regression-DataSets" aria-hidden="true"><span class="octicon octicon-link"></span>
-</a>Imbalanced Regression Data Sets</h1>
+### Imbalanced Regression Data Sets
 
-<h2>
-<a id="121-countries-1945-2014" class="anchor" href="#121-countries-1945-2014" aria-hidden="true"><span class="octicon octicon-link"></span>
-</a>15 data sets for imbalanced regression</h2>
+## 15 data sets for imbalanced regression
 
 
 

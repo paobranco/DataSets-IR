@@ -1,18 +1,14 @@
-### Imbalanced Regression Data Sets
 
 ## 15 data sets for imbalanced regression
 
 
 
-<p>
 This repository contains the 15 imbalanced regression data sets used in the paper:
-</p>
-<p>
+
 Paula Branco, Luis Torgo, and Rita P. Ribeiro <strong>"Pre-processing Approaches for Imbalanced Distributions in Regression"</strong> submitted to Neurocomputing Journal.
-</p>
 
 <p>
-The data sets are provided in 3 formats:</p>
+The data sets are availabel in 3 formats:</p>
 <ul>
   <li> <strong>RDATA</strong></li>
   <li> <strong>CSV</strong></li>

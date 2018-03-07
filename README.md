@@ -19,12 +19,11 @@ The data sets are availabel in 3 formats:</p>
 <p>The above links allow you to download the data sets in all the available formats.</p>
 
 <p>The following links allow you to obtain the data sets in only one of the formats.</p>
-</p>
-        <section id="downloads" class="clearfix">
-          <a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/zipball/rdata" id="rdata" class="button"><span>Rdata zip</span></a>
+
+
+<a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/zipball/rdata" id="rdata" class="button"><span>Rdata zip</span></a>
           <a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/zipball/csv" id="csv" class="button"><span>CSV zip</span></a>
           <a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/zipball/arff" id="arff" class="button"><span>ARFF zip</span></a>
-        </section>
 
 <p>
 # More Details on the Data Sets

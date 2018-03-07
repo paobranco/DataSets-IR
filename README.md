@@ -25,7 +25,10 @@ The data sets are availabel in 3 formats:</p>
           <a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/zipball/csv" id="csv" class="button"><span>CSV zip</span></a>
           <a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/zipball/arff" id="arff" class="button"><span>ARFF zip</span></a>
         </section>
+
+<p>
 # More Details on the Data Sets
+</p>
 
 The main characteristics of the 15 regression data sets in this folder are as follows:
 

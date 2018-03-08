@@ -1,4 +1,4 @@
-# Data sets for Imbalanced Regression Learning
+# Data Sets for Imbalanced Regression Learning
 ## 15 data sets for imbalanced regression from different domains
 
 

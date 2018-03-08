@@ -2,6 +2,10 @@
 
 ## 15 data sets for imbalanced regression
 
+<a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/zipball/master" id="download-zip" class="button"><span>Download .zip</span></a>
+<a href="https://github.com/paobranco/Imbalanced-Regression-DataSets/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
+<a href="https://github.com/paobranco/Imbalanced-Regression-DataSets" id="view-on-github" class="button"><span>View on GitHub</span></a>
+
 
 
 This repository contains the 15 imbalanced regression data sets used in the paper:

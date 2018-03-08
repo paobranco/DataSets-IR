@@ -73,7 +73,7 @@ library(repmis)
 And use the `source_data` function:
 
 ```r
-repmis::source_data(url = "https://github.com/paobranco/Imbalanced-Regression-DataSets/blob/master/RDATA_data/DataSets15.Rdata?raw=true")
+repmis::source_data(url = "https://github.com/paobranco/DataSets-IR/blob/master/RDATA_data/DataSets15.Rdata?raw=true")
 ```
 
 This will load into R an object named `DSs` which contains a list with 15 objects of class `dataset` from package DMwR.

@@ -12,7 +12,7 @@ The data sets are available in 3 formats: Rdata, csv and arff.
 
 You can either download the data sets in all formats, or in one desired format.
 
-This [page](https://paobranco.github.io/Imbalanced-Regression-DataSets/) allows you to select the format of the data sets and download them in the selected format.
+This [page](https://paobranco.github.io/DataSets-IR/) allows you to select the format of the data sets and download them in the selected format.
 
 ## More details on the data sets
 

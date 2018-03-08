@@ -19,15 +19,15 @@ The data sets are availabel in 3 formats:</p>
 <p>The following links allow you to obtain the data sets in only one of the formats.</p>
 
 <p>
-<a href="https://github.com/paobranco/DataSets-IR/zipball/rdata" id="rdata" class="button"><span>Rdata</span></a>
+<a href="https://github.com/paobranco/DataSets-IR/zipball/rdata" class="btn"><span>Rdata</span></a>
 </p> 
 
 <p>
-<a href="https://github.com/paobranco/DataSets-IR/zipball/csv" id="csv" class="button"><span>CSV</span></a>
+<a href="https://github.com/paobranco/DataSets-IR/zipball/csv" class="btn"><span>CSV</span></a>
 </p>
 
 <p>
-<a href="https://github.com/paobranco/DataSets-IR/zipball/arff" id="arff" class="button"><span>ARFF</span></a>
+<a href="https://github.com/paobranco/DataSets-IR/zipball/arff" class="btn"><span>ARFF</span></a>
 </p>
 <p></p>
 <div><br /><br /><br /><br /></div>

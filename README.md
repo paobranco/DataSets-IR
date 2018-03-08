@@ -18,20 +18,11 @@ The data sets are availabel in 3 formats:</p>
 
 <p>The following links allow you to obtain the data sets in only one of the formats.</p>
 
-<p>
-<a href="https://github.com/paobranco/DataSets-IR/zipball/rdata" class="btn"><span>Rdata</span></a>
-</p> 
-
-<p>
-<a href="https://github.com/paobranco/DataSets-IR/zipball/csv" class="btn"><span>CSV</span></a>
-</p>
-
-<p>
-<a href="https://github.com/paobranco/DataSets-IR/zipball/arff" class="btn"><span>ARFF</span></a>
-</p>
-<p></p>
-<div><br /><br /><br /><br /></div>
-
+<ul>
+<li><a href="https://github.com/paobranco/DataSets-IR/zipball/rdata" class="btn"><span>Rdata .zip</span></a></li>
+<li><a href="https://github.com/paobranco/DataSets-IR/zipball/csv" class="btn"><span>CSV .zip</span></a></li>
+<li><a href="https://github.com/paobranco/DataSets-IR/zipball/arff" class="btn"><span>ARFF .zip</span></a></li>
+</ul>
 # More Details on the Data Sets
 
 The main characteristics of the 15 regression data sets in this folder are as follows:
